@@ -1,0 +1,9 @@
+fastapi[standard]
+fastapi-cli
+fastapi-mcp
+sqlalchemy
+uvicorn
+pydantic
+httpx
+python-dotenv
+PyYAML

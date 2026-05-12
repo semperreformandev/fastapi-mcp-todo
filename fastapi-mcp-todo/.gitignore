@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test and coverage artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and generated runtime files
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# Logs and runtime files
+*.log
+*.pid
+*.out
+*.err
+
+# IDE/editor settings
+.idea/
+.vscode/
+
+# macOS / system files
+.DS_Store
+Thumbs.db
